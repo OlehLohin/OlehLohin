@@ -11,5 +11,5 @@
 - [Chat-Platform-MVP](https://github.com/OlehLohin/Chat-Platform-MVP) — розробка месенджера.
 
 ## 📫 Контакти
-- LinkedIn: 
-- Email: 
+- LinkedIn: https://www.linkedin.com/in/oleh-lohin/
+- Email: lohin22.ole@gmail.com
